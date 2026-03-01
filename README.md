@@ -15,8 +15,10 @@ A estratégia foi aplicar o Princípio de Pareto, que afirma que 20% dos fatores
 ## Resultados
 - Os 20% dos estoques estavam concentrados em apenas 6 lojas.
 - Houve redução significativa do estoque geral entre outubro/2025 e dezembro/2025.
-<img width="964" height="218" alt="image" src="https://github.com/user-attachments/assets/d4a3a70a-595f-4081-a4d9-296e28c14669" />
+- <img width="964" height="218" alt="image" src="https://github.com/user-attachments/assets/d4a3a70a-595f-4081-a4d9-296e28c14669" />
+
 - Em janeiro/2026, uma única loja com apenas uma editora aumentou seus itens em 157%, impactando negativamente a queda esperada no estoque total.
+- 
 ## Insights da Análise
 - O estoque geral não reduziu mais porque uma loja específica puxou os números para cima.
 - Essa loja se tornou o ponto crítico para atingir a meta de redução definida pelo CEO.
